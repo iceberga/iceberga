@@ -1,7 +1,7 @@
 ### Hi there 👋 
-## My name is Kseniya
-## I started my programming way in 2022
-## I'm currently studing in School 21 from Sber
+### My name is Kseniya
+### I started my programming way in 2022
+### I'm currently studing in School 21 from Sber
 
 ### Stack: C++, Python, SQL
 <div id="header" align="center">
